@@ -52,7 +52,7 @@ main {
 }
 .step-img3 {
   height: 150px;
-  
+
   background-image: url(img/flow03.png);
   background-position: bottom;
   background-size: cover;
@@ -62,8 +62,8 @@ main {
   font-weight: normal;
   margin: 15px 0 5px;
 }
-.introduce-text{
-  color:gray;
+.introduce-text {
+  color: gray;
   font-weight: normal;
 }
 footer {
@@ -80,8 +80,7 @@ footer {
     height: auto;
     width: 100%;
     display: block;
-    margin:50px auto;
-    
+    margin: 50px auto;
   }
   .step {
     margin: 0 auto;
@@ -95,7 +94,6 @@ footer {
   }
   .step-img1 {
     height: 150px;
-
   }
   .step-img2 {
     height: 150px;
